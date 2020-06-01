@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bfs.main" target="1.8" />
+      <module name="bfs.test" target="1.8" />
+      <module name="com.telran.contacts" target="1.8" />
+      <module name="com.telran.contacts.main" target="1.8" />
+      <module name="com.telran.contacts.test" target="1.8" />
+      <module name="cycle_string.main" target="1.8" />
+      <module name="cycle_string.test" target="1.8" />
+      <module name="integers_from_1_to_N.main" target="1.8" />
+      <module name="integers_from_1_to_N.test" target="1.8" />
+      <module name="pattern_text.main" target="1.8" />
+      <module name="pattern_text.test" target="1.8" />
+      <module name="rec_fibonacci.main" target="1.8" />
+      <module name="rec_fibonacci.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

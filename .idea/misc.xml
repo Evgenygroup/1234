@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/6-7/bfs" />
+    <file type="web" url="file://$PROJECT_DIR$/6-7/cycle_string" />
+    <file type="web" url="file://$PROJECT_DIR$/6-7/integers_from_1_to_N" />
+    <file type="web" url="file://$PROJECT_DIR$/6-7/merge_sort" />
+    <file type="web" url="file://$PROJECT_DIR$/6-7/pattern_text" />
+    <file type="web" url="file://$PROJECT_DIR$/6-7/product_from_array" />
+    <file type="web" url="file://$PROJECT_DIR$/6-7/rec_fibonacci" />
+    <file type="web" url="file://$PROJECT_DIR$/6-7/recurcieve_major_element" />
+    <file type="web" url="file://$PROJECT_DIR$/9_morning/20_04_06_contacts" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

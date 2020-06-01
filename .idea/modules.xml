@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/20_03_31_server_app.iml" filepath="$PROJECT_DIR$/.idea/modules/20_03_31_server_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/20_04_03_contacts.iml" filepath="$PROJECT_DIR$/.idea/modules/20_04_03_contacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/9_morning.20_05_04_contacts_js.iml" filepath="$PROJECT_DIR$/.idea/modules/9_morning.20_05_04_contacts_js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sharf.iml" filepath="$PROJECT_DIR$/.idea/Sharf.iml" />
+    </modules>
+  </component>
+</project>
