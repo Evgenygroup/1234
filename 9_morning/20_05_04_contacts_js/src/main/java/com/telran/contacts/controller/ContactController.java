@@ -40,6 +40,7 @@ public class ContactController {
 
     @DeleteMapping("/contact/{id}")
     @ResponseBody
+    @CrossOrigin
     public void removeContact(@PathVariable int id) {
         contactService.remove(id);
     }

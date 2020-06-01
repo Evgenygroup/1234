@@ -27,6 +27,7 @@ export class ContactItemComponent implements OnInit {
   }
 
   onClickDelete() {
+    console.log(this.contact);
     this.contactService.remove(this.contact);
   }
 }

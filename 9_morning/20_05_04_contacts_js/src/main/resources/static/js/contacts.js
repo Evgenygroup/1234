@@ -92,7 +92,7 @@ class ContactWrapperListener {
 class ContactService {
 
     constructor(contactWrapperDom, contactFormDom) {
-        this.contactWrapperDom = contactWrapperDom;
+        this.contactWrapperDcdom = contactWrapperDom;
         this.contactFormDom = contactFormDom;
 
         this.addButtonDom = contactFormDom.querySelector('[data-action="addContact"]');
