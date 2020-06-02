@@ -29,16 +29,21 @@ export class ContactService {
     return this.contacts;
   }
 
+  edit(contact: Contact){
+    this.httpClient.put(`${this.host}contact`, contact)
+      .subscribe(value => this.reloadContacts());
+  }
+
   remove(contact: Contact): void{
     this.httpClient.delete(`${this.host}contact/${contact.id}`)
       .subscribe(value => this.reloadContacts());
 
   }
 
-  edit(contact: Contact) {
+ // edit(contact: Contact) {
     // const contactToEdit = CONTACTS.find(value => value.id === contact.id);
     // Object.assign(contactToEdit, contact);
-  }
+ // }
 
  // remove(contact: Contact) {
     // const index = CONTACTS.findIndex(value => value.id === contact.id);

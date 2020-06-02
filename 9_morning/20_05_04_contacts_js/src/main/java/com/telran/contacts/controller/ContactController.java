@@ -34,6 +34,7 @@ public class ContactController {
 
     @PutMapping("/contact")
     @ResponseBody
+    @CrossOrigin
     public void editContact(@RequestBody Contact contact) {
         contactService.edit(contact);
     }

@@ -30,7 +30,7 @@ export class ContactFormComponent implements OnInit, OnDestroy {
   }
 
   onEditContact(value: Contact) {
-    this.contact = value;
+    this.contact = Object.assign({}, value);
     this.isAddingState = false;
   }
 
